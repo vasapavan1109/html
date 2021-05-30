@@ -1,0 +1,20 @@
+h1{
+    color:rgb(0, 94, 255)
+}
+h2{
+    color:brown
+}
+.header{
+    background-color: aqua;
+    align-items:center;
+    text-align:center;
+    justify-content:space-evenly;
+}
+.footer{
+    background-color:darksalmon;
+}
+.paragraph{
+    display:flex;
+    justify-content:flex-end;
+    justify-content:space-evenly  
+}
